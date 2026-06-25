@@ -15,5 +15,5 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+NIAK is a self-driving car that will drive the future. Using the premier Huskylens AI Camera and Ultrasonic sensors, Rocky conquers every obstacle in its path, scanning for the light intensity reflecting off each material.  Bridging the hardware and software, the Pyhuskylens library enables the seamless integration of the Huskylens  with Lego Mindstorms EV3, allowing Rocky with a  system combining advanced computer vision and intelligent robotic control. Flashing the firmware on Pybricks Beta, you are met with the futuristic car that will drive the Philippines to the future!
 
